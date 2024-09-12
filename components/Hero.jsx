@@ -16,7 +16,7 @@ function Hero() {
       <h1 className="text-3xl font-black text-center max-w-2xl mt-4 text-slate-50">
         Hey, I'm Hélio Sal
       </h1>
-      <p className="text-center max-w-2xl mt-2 text-slate-50">
+      <p className="text-center mt-2 text-slate-50 max-w-lg">
         This is my blog and I am here to talk about some of my favorite topics, such as jellyfish and coding
       </p>
     </section>
